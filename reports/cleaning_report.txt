@@ -1,0 +1,16 @@
+============================================================
+DATA CLEANING REPORT
+============================================================
+
+Dataset Loaded Successfully
+Missing Values Handled
+Duplicate Records Removed
+Negative Values Removed
+Column Names Standardized
+Date Format Standardized
+
+Cleaning Status : SUCCESS
+
+Output:
+cleaned_data.csv
+duplicate_records.csv
