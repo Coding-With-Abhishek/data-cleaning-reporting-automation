@@ -1,10 +1,10 @@
-Data Cleaning & Reporting Automation
+# Data Cleaning & Reporting Automation
 
 An end-to-end data automation project developed using Python to clean raw datasets, improve data quality, validate records, detect inconsistencies, and generate automated reports. This project demonstrates practical data preprocessing techniques commonly used in business intelligence, analytics, and machine learning workflows.
 
 ---
 
-Features
+# Features
 
 - Import raw CSV datasets
 - Handle missing values automatically
@@ -21,7 +21,7 @@ Features
 
 ---
 
-Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
@@ -33,7 +33,7 @@ Technologies Used
 
 ---
 
-Project Structure
+# Project Structure
 
 data-cleaning-reporting-automation
 │
@@ -69,7 +69,7 @@ data-cleaning-reporting-automation
 
 ---
 
-Dataset
+# Dataset
 
 The project processes raw business datasets containing customer and sales information.
 
@@ -87,7 +87,7 @@ Example columns:
 
 ---
 
-Workflow
+# Workflow
 
 1. Import raw dataset
 2. Validate data
@@ -102,7 +102,7 @@ Workflow
 
 ---
 
-Installation
+# Installation
 
 git clone https://github.com/your-username/data-cleaning-reporting-automation.git
 
@@ -112,7 +112,7 @@ pip install -r requirements.txt
 
 ---
 
-Run Project
+# Run Project
 
 python src/data_cleaning.py
 
@@ -126,16 +126,16 @@ python src/visualization.py
 
 ---
 
-Generated Outputs
+# Generated Outputs
 
 After execution, the project automatically generates:
 
-Cleaned Data
+# Cleaned Data
 
 - cleaned_data.csv
 - duplicate_records.csv
 
-Reports
+# Reports
 
 - cleaning_report.txt
 - quality_report.txt
@@ -147,7 +147,7 @@ Generated output files are created automatically during project execution.
 
 ---
 
-Future Improvements
+# Future Improvements
 
 - Excel Automation
 - Power BI Integration
@@ -159,7 +159,7 @@ Future Improvements
 
 ---
 
-Author
+# Author
 
 Abhishek Kumar
 
@@ -167,6 +167,6 @@ B.Tech Computer Science & Engineering (Artificial Intelligence)
 
 ---
 
-License
+# License
 
 This project is licensed under the MIT License.
