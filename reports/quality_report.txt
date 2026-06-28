@@ -1,0 +1,15 @@
+============================================================
+DATA QUALITY REPORT
+============================================================
+
+Missing Values : 0
+
+Duplicate Records : 0
+
+Invalid Values : 0
+
+Dataset Validation : PASSED
+
+Overall Quality Score : 100%
+
+Status : SUCCESS
