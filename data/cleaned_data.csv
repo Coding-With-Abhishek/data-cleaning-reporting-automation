@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Age,City,Product,Quantity,Sales,Email,Purchase_Date
+1001,Aarav Sharma,25,Delhi,Laptop,2,1200,aarav@example.com,2025-01-02
+1002,Priya Singh,29,Mumbai,Mouse,5,250,priya@example.com,2025-01-04
+1003,Rahul Verma,31,Pune,Keyboard,3,450,rahul@example.com,2025-01-05
+1004,Neha Gupta,27,Noida,Monitor,1,300,neha@example.com,2025-01-06
+1005,Aman Kumar,35,Jaipur,Printer,1,220,aman@example.com,2025-01-08
+1006,Riya Patel,24,Ahmedabad,SSD,2,280,riya@example.com,2025-01-10
+1007,Karan Mehta,30,Delhi,RAM,4,360,karan@example.com,2025-01-11
+1008,Anjali Roy,28,Kolkata,Laptop,1,650,anjali@example.com,2025-01-13
+1009,Vikram Das,33,Chennai,Mouse,6,300,vikram@example.com,2025-01-14
+1010,Sneha Jain,26,Indore,Keyboard,2,320,sneha@example.com,2025-01-16
+1011,Rohan Sinha,32,Lucknow,Monitor,2,620,rohan@example.com,2025-01-18
+1012,Meera Joshi,29,Bhopal,SSD,3,420,meera@example.com,2025-01-20
+1013,Aditya Rao,34,Hyderabad,Printer,2,500,aditya@example.com,2025-01-22
+1014,Isha Kapoor,23,Delhi,RAM,4,390,isha@example.com,2025-01-24
+1015,Nikhil Shah,36,Surat,Laptop,2,1250,nikhil@example.com,2025-01-25
+1016,Pooja Yadav,27,Kanpur,Mouse,5,260,pooja@example.com,2025-01-27
+1017,Harsh Gupta,31,Gurugram,Keyboard,3,480,harsh@example.com,2025-01-28
+1018,Komal Arora,28,Noida,SSD,2,310,komal@example.com,2025-01-30
+1019,Sachin Mishra,37,Varanasi,Monitor,1,340,sachin@example.com,2025-02-01
+1020,Divya Nair,26,Kochi,RAM,4,410,divya@example.com,2025-02-03
